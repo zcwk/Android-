@@ -13,7 +13,7 @@
 # 控件
 简介 | 分享者
 :------------- | :-------------
-[日期时间选择控件](https://github.com/CiTuX/datetimepicker) | 圆形的时间选择控件
+[DateTimePicker](https://github.com/CiTuX/datetimepicker) | 圆形的时间选择控件
 
 
 # 优化
