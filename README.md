@@ -3,21 +3,25 @@
 
 
 # 图片
-
-# 数据
-简介 | 分享着
+名称 | 简介
 :------------- | :-------------
-[GreenDao](http://glblong.blog.51cto.com/3058613/1354953) | 发现这个人写的好
-[ORMLite](http://blog.csdn.net/lmj623565791/article/details/39122981) | 鸿洋大神的博客
+[Glide](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0327/2650.html) | 网络图片加载
+[Picasso](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0327/2650.html) | 网络图片加载
+# 数据
+名称 | 简介
+:------------- | :-------------
+[GreenDao](http://glblong.blog.51cto.com/3058613/1354953) | 数据库ORM（对象关系数据映射）
+[ORMLite](http://blog.csdn.net/lmj623565791/article/details/39122981) | ORM（对象关系数据映射）
 
 # 网络
-简介 | 分享者
+名称 | 简介
 :------------- | :-------------
-[Volley](http://blog.csdn.net/guolin_blog/article/details/17482095) | 郭大神的博客，详细的讲解了Volley Volley是Google I/O 2013推出的网络通信库
+[Volley](http://blog.csdn.net/guolin_blog/article/details/17482095) | 网络通信库
+[OkHttp](htt)
 
 
 # 控件
-简介 | 分享者
+名称 | 简介
 :------------- | :-------------
 [DateTimePicker](https://github.com/CiTuX/datetimepicker) | 圆形的时间选择控件
 
