@@ -17,8 +17,8 @@
 名称 | 简介
 :------------- | :-------------
 [Volley](http://blog.csdn.net/guolin_blog/article/details/17482095) | 网络通信库
-[OkHttp](htt)
-
+[OkHttp](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0720/3209.html) | 网络通信库
+[android-async-http](https://github.com/loopj/android-async-http) | 网络通信库
 
 # 控件
 名称 | 简介
